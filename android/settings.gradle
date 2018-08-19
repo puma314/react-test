@@ -1,0 +1,3 @@
+rootProject.name = 'ved_test'
+
+include ':app'
